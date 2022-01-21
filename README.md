@@ -29,7 +29,7 @@
 
 ### 步骤
 
-1. 下载`ForceDarkModeForMIUI.sh`
+1. 下载[ForceDarkModeForMIUI.sh](https://raw.githubusercontent.com/zhijuyingfeng/ForceDarkModeForMIUI/main/ForceDarkModeForMIUI.sh)
 
 2. 打开终端软件，授予ROOT权限，进入`ForceDarkModeForMIUI.sh`所在目录。例如，您把该脚本下载到了`/sdcard/Downloads`目录下，您可以通过在终端中输入`cd  /sdcard/Downloads`进入该目录。
 
